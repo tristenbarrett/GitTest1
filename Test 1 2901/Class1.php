@@ -10,4 +10,8 @@
  */
 class Class1
 {
+    function Stuff()
+    {
+        echo "Cat";
+    }
 }
