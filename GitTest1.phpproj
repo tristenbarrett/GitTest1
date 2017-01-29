@@ -18,5 +18,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="index.php" />
+    <Compile Include="Test 1 2901\Class1.php" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Test 1 2901\" />
   </ItemGroup>
 </Project>
